@@ -50,7 +50,7 @@ And now when you wish to merge your own branch onto the latest version of the
 theme, simply do:
 
 ```
-$ git fetch upstream
+$ git fetch upstreamFundamental_1D_Algebra_Equation
 $ git merge upstream/gh-pages
 ```
 

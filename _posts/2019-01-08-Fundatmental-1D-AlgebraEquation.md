@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fundamental session"
-date: 2012-05-22 16:25:06 -0700
+title: "Fundamental session: matrix constrcution"
+date: 2019-01-08 16:25:06 -0700
 comments: true
 ---
 # Fundamental session: 1D Algebra Equation
