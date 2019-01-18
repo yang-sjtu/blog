@@ -1,10 +1,10 @@
 # Jekyll configuration
 
 name: My blog
-description: A jekyll theme
+description: A jekyll themejekyll-clean
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://scotte.github.io/jekyll-clean
+url: https://scotte.github.io/blog
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
