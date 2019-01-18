@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: Yang's blog
+description: A blog on research work
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://yang-sjtu.github.io/blog
