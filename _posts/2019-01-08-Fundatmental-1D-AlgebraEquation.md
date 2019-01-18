@@ -73,7 +73,7 @@ In the Galerkin method discretization, the same piece-wise approximation $\phi$ 
   v_h = \hat{\phi}_i, \ \text{for} \ i= 1, 2, 3... N,
 \end{equation}
 
-With this $N$ times selection of arbitrary test function, we can summarize $N$ linear eqatuion for $N$ unknowns.
+With this $N$ times selection of arbitrary test function, we can summarize $N$ linear eqatuions for $N$ unknowns.
 
 \begin{equation}
   \sum_{j=1}^{N} U_j \int_{\Omega} \phi_j \hat{\phi_i} dx = \int_{\Omega} f \hat{\phi}_i dx, \ \text{for} \ i= 1, 2, 3... N.
@@ -172,8 +172,8 @@ print(a_e)
 and 
 \begin{equation}
   \begin{aligned}
-    b^e_1 &=  \int_{\Omega^s} f N_1(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} \frac{1}{2} (1 - \xi) d \xi = \frac{1}{8}, \\\\ 
-    b^e_2 &=  \int_{\Omega^s} f N_2(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} \frac{1}{2} (1 + \xi) d \xi = \frac{1}{8}.
+    b^e_1 &=  \int_{\Omega^s} f N_1(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} 1*\frac{1}{2} (1 - \xi) d \xi = \frac{1}{8}, \\\\ 
+    b^e_2 &=  \int_{\Omega^s} f N_2(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} 1*\frac{1}{2} (1 + \xi) d \xi = \frac{1}{8}.
   \end{aligned}
 \end{equation}
 \begin{equation}
