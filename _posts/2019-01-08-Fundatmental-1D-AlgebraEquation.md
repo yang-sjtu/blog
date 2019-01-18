@@ -172,8 +172,8 @@ print(a_e)
 and 
 \begin{equation}
   \begin{aligned}
-    b^e_1 &=  \int_{\Omega^s} f N_1(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} 1*\frac{1}{2} (1 - \xi) d \xi = \frac{1}{8}, \\\\ 
-    b^e_2 &=  \int_{\Omega^s} f N_2(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} 1*\frac{1}{2} (1 + \xi) d \xi = \frac{1}{8}.
+    b^e_1 &=  \int_{\Omega^s} f N_1(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} 1 * \frac{1}{2} (1 - \xi) d \xi = \frac{1}{8}, \\\\ 
+    b^e_2 &=  \int_{\Omega^s} f N_2(\xi) det J(\xi) d \xi = \frac{1}{8} \int_{-1}^{1} 1 * \frac{1}{2} (1 + \xi) d \xi = \frac{1}{8}.
   \end{aligned}
 \end{equation}
 \begin{equation}
