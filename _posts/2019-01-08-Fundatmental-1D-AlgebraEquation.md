@@ -54,8 +54,7 @@ plot(mesh)
 
 
 
-![png](/images/Fundamental_1D_Algebra_Equation_3_1.png)
-*image_caption*
+![1D mesh](/images/Fundamental_1D_Algebra_Equation_3_1.png)
 
 ## Jacobian in 1D
 \begin{equation}
